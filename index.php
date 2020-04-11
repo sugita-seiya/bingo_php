@@ -30,4 +30,8 @@ $nums = $bingo->create();
     </table>
   </div>
 </body>
+
+
+
+
 </html>
